@@ -1,0 +1,17 @@
+C:\ProyectosGit\Usuarios\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\ProyectosGit\Usuarios\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosGit\Usuarios\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\ProyectosGit\Usuarios\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\ProyectosGit\Usuarios\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\ProyectosGit\Usuarios\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\ProyectosGit\Usuarios\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\ProyectosGit\Usuarios\Persistence\bin\Debug\net6.0\ref\Persistence.dll
+C:\ProyectosGit\Usuarios\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\ProyectosGit\Usuarios\Persistence\bin\Debug\net6.0\Application.dll
+C:\ProyectosGit\Usuarios\Persistence\bin\Debug\net6.0\Domain.dll
+C:\ProyectosGit\Usuarios\Persistence\bin\Debug\net6.0\Application.pdb
+C:\ProyectosGit\Usuarios\Persistence\bin\Debug\net6.0\Domain.pdb
+C:\ProyectosGit\Usuarios\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+C:\ProyectosGit\Usuarios\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\ProyectosGit\Usuarios\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+C:\ProyectosGit\Usuarios\Persistence\obj\Debug\net6.0\Persistence.pdb
