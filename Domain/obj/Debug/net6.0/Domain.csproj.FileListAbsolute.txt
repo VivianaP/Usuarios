@@ -9,3 +9,4 @@ C:\ProyectosGit\Usuarios\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs
 C:\ProyectosGit\Usuarios\Domain\obj\Debug\net6.0\Domain.dll
 C:\ProyectosGit\Usuarios\Domain\obj\Debug\net6.0\ref\Domain.dll
 C:\ProyectosGit\Usuarios\Domain\obj\Debug\net6.0\Domain.pdb
+C:\ProyectosGit\Usuarios\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache

@@ -1,0 +1,314 @@
+﻿++Solución "Usuarios" ‎(5 de 5 proyectos)
+++src
+i:{00000000-0000-0000-0000-000000000000}:src
+++Core
+i:{d6b0b2d4-caaa-4189-aaff-43e450f3597d}:Core
+++Application
+i:{d6ed8a62-c8da-467c-a6b9-27a3613d406e}:Application
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\proyectosgit\usuarios\application\application.csproj
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:c:\proyectosgit\usuarios\application\application.csproj
+i:{bd7e1f46-0dd7-4dc2-8569-93981ceb6bd2}:c:\proyectosgit\usuarios\application\application.csproj
+++Dependencias
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:>179851
+i:{f1aefc34-51fb-4293-868d-de553bde8877}:>179825
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:>180118
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:>179826
+i:{bd7e1f46-0dd7-4dc2-8569-93981ceb6bd2}:>179898
+i:{73b10004-6046-4b25-887e-ffbd9eebb367}:>180836
+++Analizadores
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:analizadores
+i:{f1aefc34-51fb-4293-868d-de553bde8877}:analizadores
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:analizadores
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:analizadores
+i:{bd7e1f46-0dd7-4dc2-8569-93981ceb6bd2}:analizadores
+i:{73b10004-6046-4b25-887e-ffbd9eebb367}:analizadores
+++Marcos de trabajo
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:marcos de trabajo
+i:{f1aefc34-51fb-4293-868d-de553bde8877}:marcos de trabajo
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:marcos de trabajo
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:marcos de trabajo
+i:{bd7e1f46-0dd7-4dc2-8569-93981ceb6bd2}:marcos de trabajo
+i:{73b10004-6046-4b25-887e-ffbd9eebb367}:marcos de trabajo
+++Paquetes
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:paquetes
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:paquetes
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:paquetes
+i:{bd7e1f46-0dd7-4dc2-8569-93981ceb6bd2}:paquetes
+i:{73b10004-6046-4b25-887e-ffbd9eebb367}:paquetes
+++Ardalis.Specification (6.0.1)
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:>180368
+++AutoMapper (11.0.1)
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:>180232
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:>180231
+++FluentValidation (10.3.6)
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:>180233
+++FluentValidation.DependencyInjectionExtensions (10.3.6)
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:>180234
+++MediatR.Extensions.Microsoft.DependencyInjection (10.0.1)
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:>180230
+++Behaviours
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\behaviours\
+++ValidationBehavior.cs
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\behaviours\validationbehavior.cs
+++DTOs
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\dtos\
+++Exceptions
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\exceptions\
+++ValidationException.cs
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\exceptions\validationexception.cs
+++Feautres
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\feautres\
+++Usuarios
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\feautres\usuarios\
+++Commands
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\feautres\usuarios\commands\
+++CreateUsuarioCommand
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\feautres\usuarios\commands\createusuariocommand\
+++CreateUsuarioCommand.cs
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\feautres\usuarios\commands\createusuariocommand\createusuariocommand.cs
+++DeleteUsuarioCommand
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\feautres\usuarios\commands\deleteusuariocommand\
+++UpdateUsuarioCommand
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\feautres\usuarios\commands\updateusuariocommand\
+++Queries
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\feautres\usuarios\queries\
+++GetAllUsuarios
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\feautres\usuarios\queries\getallusuarios\
+++GetUsuarioById
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\feautres\usuarios\queries\getusuariobyid\
+++Filters
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\filters\
+++Interfaces
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\interfaces\
+++IDateTimeService.cs
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\interfaces\idatetimeservice.cs
+++IRepositoryAsync.cs
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\interfaces\irepositoryasync.cs
+++Mappings
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\mappings\
+++Wrappers
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\wrappers\
+++Response.cs
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\wrappers\response.cs
+++ServicesExtensions.cs
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\servicesextensions.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{f1aefc34-51fb-4293-868d-de553bde8877}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{bd7e1f46-0dd7-4dc2-8569-93981ceb6bd2}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{73b10004-6046-4b25-887e-ffbd9eebb367}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{f1aefc34-51fb-4293-868d-de553bde8877}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{bd7e1f46-0dd7-4dc2-8569-93981ceb6bd2}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{73b10004-6046-4b25-887e-ffbd9eebb367}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{f1aefc34-51fb-4293-868d-de553bde8877}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{bd7e1f46-0dd7-4dc2-8569-93981ceb6bd2}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{73b10004-6046-4b25-887e-ffbd9eebb367}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\microsoft.netcore.app
+i:{f1aefc34-51fb-4293-868d-de553bde8877}:c:\proyectosgit\usuarios\domain\microsoft.netcore.app
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\proyectosgit\usuarios\webapi\microsoft.netcore.app
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:c:\proyectosgit\usuarios\persistence\microsoft.netcore.app
+i:{bd7e1f46-0dd7-4dc2-8569-93981ceb6bd2}:c:\proyectosgit\usuarios\shared\microsoft.netcore.app
+i:{73b10004-6046-4b25-887e-ffbd9eebb367}:c:\proyectosgit\usuarios\identity\microsoft.netcore.app
+++Domain
+i:{d6ed8a62-c8da-467c-a6b9-27a3613d406e}:Domain
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:c:\proyectosgit\usuarios\domain\domain.csproj
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\domain\domain.csproj
+++Common
+i:{f1aefc34-51fb-4293-868d-de553bde8877}:c:\proyectosgit\usuarios\domain\common\
+++AuditableBaseEntity.cs
+i:{f1aefc34-51fb-4293-868d-de553bde8877}:c:\proyectosgit\usuarios\domain\common\auditablebaseentity.cs
+++Entities
+i:{f1aefc34-51fb-4293-868d-de553bde8877}:c:\proyectosgit\usuarios\domain\entities\
+++Usuario.cs
+i:{f1aefc34-51fb-4293-868d-de553bde8877}:c:\proyectosgit\usuarios\domain\entities\usuario.cs
+++Presentation
+i:{d6b0b2d4-caaa-4189-aaff-43e450f3597d}:Presentation
+++WebAPI
+i:{c902cc65-2b3b-452b-84c3-48639c323b13}:WebAPI
+++Connected Services 
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:>180119
+++Properties
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\proyectosgit\usuarios\webapi\properties\
+++Controllers
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\proyectosgit\usuarios\webapi\controllers\
+++appsettings.json
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\proyectosgit\usuarios\webapi\appsettings.json
+++Program.cs
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\proyectosgit\usuarios\webapi\program.cs
+++Startup.cs
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\proyectosgit\usuarios\webapi\startup.cs
+++WeatherForecast.cs
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\proyectosgit\usuarios\webapi\weatherforecast.cs
+++No se detectaron dependencias de servicio
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:>180120
+++Proyectos
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:proyectos
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:proyectos
+i:{bd7e1f46-0dd7-4dc2-8569-93981ceb6bd2}:proyectos
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:proyectos
+++launchSettings.json
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\proyectosgit\usuarios\webapi\properties\launchsettings.json
+++WeatherForecastController.cs
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\proyectosgit\usuarios\webapi\controllers\weatherforecastcontroller.cs
+++appsettings.Development.json
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\proyectosgit\usuarios\webapi\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{73b10004-6046-4b25-887e-ffbd9eebb367}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{73b10004-6046-4b25-887e-ffbd9eebb367}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.Extensions.Logging.Generators
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:c:\users\usuario\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{73b10004-6046-4b25-887e-ffbd9eebb367}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\proyectosgit\usuarios\webapi\microsoft.aspnetcore.app
+++MediatR (10.0.1)
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:>180226
+++Swashbuckle.AspNetCore (6.2.3)
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:>180165
+++Persistence
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\proyectosgit\usuarios\persistence\persistence.csproj
+i:{0bb375b4-1fdf-4331-94c3-5ee7bc11b29e}:Persistence
+++Infraestructure
+i:{d6b0b2d4-caaa-4189-aaff-43e450f3597d}:Infraestructure
+++Ardalis.Specification.EntityFrameworkCore (6.0.1)
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:>180369
+++Microsoft.EntityFrameworkCore (6.0.2)
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:>180353
+i:{73b10004-6046-4b25-887e-ffbd9eebb367}:>180894
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.2)
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:>180356
+i:{73b10004-6046-4b25-887e-ffbd9eebb367}:>180895
+++Microsoft.Extensions.Options.ConfigurationExtensions (6.0.0)
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:>180357
+i:{bd7e1f46-0dd7-4dc2-8569-93981ceb6bd2}:>180716
+++Configuration
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:c:\proyectosgit\usuarios\persistence\configuration\
+++UsuarioConfig.cs
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:c:\proyectosgit\usuarios\persistence\configuration\usuarioconfig.cs
+++Contexts
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:c:\proyectosgit\usuarios\persistence\contexts\
+i:{73b10004-6046-4b25-887e-ffbd9eebb367}:c:\proyectosgit\usuarios\identity\contexts\
+++ApplicationDbContext.cs
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:c:\proyectosgit\usuarios\persistence\contexts\applicationdbcontext.cs
+++Repository
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:c:\proyectosgit\usuarios\persistence\repository\
+++MyRepositoryAsync.cs
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:c:\proyectosgit\usuarios\persistence\repository\myrepositoryasync.cs
+++ServiceExtensions.cs
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:c:\proyectosgit\usuarios\persistence\serviceextensions.cs
+i:{bd7e1f46-0dd7-4dc2-8569-93981ceb6bd2}:c:\proyectosgit\usuarios\shared\serviceextensions.cs
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:c:\users\usuario\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\users\usuario\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{73b10004-6046-4b25-887e-ffbd9eebb367}:c:\users\usuario\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Shared
+i:{0bb375b4-1fdf-4331-94c3-5ee7bc11b29e}:Shared
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\proyectosgit\usuarios\shared\shared.csproj
+++Microsoft.EntityFrameworkCore.Tools (6.0.2)
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:>180696
+i:{73b10004-6046-4b25-887e-ffbd9eebb367}:>180897
+++NewFolder
+++Services
+i:{bd7e1f46-0dd7-4dc2-8569-93981ceb6bd2}:c:\proyectosgit\usuarios\shared\services\
+++Class1.cs
+++DateTimeService.cs
+i:{bd7e1f46-0dd7-4dc2-8569-93981ceb6bd2}:c:\proyectosgit\usuarios\shared\services\datetimeservice.cs
+++Migrations
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:c:\proyectosgit\usuarios\persistence\migrations\
+++20220227213107_MiPrimerMigration.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:c:\proyectosgit\usuarios\persistence\migrations\applicationdbcontextmodelsnapshot.cs
+++20220227213107_MiPrimerMigration.Designer.cs
+++Middlewares
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\proyectosgit\usuarios\webapi\middlewares\
+++ErrorHandlerMiddleware.cs
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\proyectosgit\usuarios\webapi\middlewares\errorhandlermiddleware.cs
+++ApiException.cs
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\exceptions\apiexception.cs
+++Extensions
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\proyectosgit\usuarios\webapi\extensions\
+++AppExtensions.cs
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\proyectosgit\usuarios\webapi\extensions\appextensions.cs
+++CreateUsuarioCommandValidator.cs
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\feautres\usuarios\commands\createusuariocommand\createusuariocommandvalidator.cs
+++GeneralProfile.cs
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\mappings\generalprofile.cs
+++BaseApiController.cs
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\proyectosgit\usuarios\webapi\controllers\baseapicontroller.cs
+++Cliente.cs
+++Cliente
+++HomeController.cs
+++UsuariosController.cs
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\proyectosgit\usuarios\webapi\controllers\usuario\usuarioscontroller.cs
+++Usuario
+i:{f01de2bb-4eff-48d1-8e52-e61aebf0e558}:c:\proyectosgit\usuarios\webapi\controllers\usuario\
+++DeleteUsuarioCommand.cs
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\feautres\usuarios\commands\deleteusuariocommand\deleteusuariocommand.cs
+++DeleteUsuarioCommandValidator.cs
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\feautres\usuarios\commands\deleteusuariocommand\deleteusuariocommandvalidator.cs
+++UpdateUsuarioCommand.cs
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\feautres\usuarios\commands\updateusuariocommand\updateusuariocommand.cs
+++UpdateUsuarioCommandValidator.cs
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\feautres\usuarios\commands\updateusuariocommand\updateusuariocommandvalidator.cs
+++20220228034611_MiPrimerMigration.cs
+++20220228034611_MiPrimerMigration.Designer.cs
+++20220228043654_MiPrimerMigration.cs
+++20220228043654_MiPrimerMigration.Designer.cs
+++20220228044243_MiPrimerMigration.cs
+++20220228044243_MiPrimerMigration.Designer.cs
+++GetUsuarioByIdQuery.cs
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\feautres\usuarios\queries\getusuariobyid\getusuariobyidquery.cs
+++UsuarioDto.cs
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\dtos\usuariodto.cs
+++ClienteDto.cs
+++20220228053430_MiPrimerMigration.cs
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:c:\proyectosgit\usuarios\persistence\migrations\20220228053430_miprimermigration.cs
+++20220228053430_MiPrimerMigration.Designer.cs
+i:{d3bca480-3f2a-49b8-8771-9ad28949df71}:c:\proyectosgit\usuarios\persistence\migrations\20220228053430_miprimermigration.designer.cs
+++GetAllUsuariosQuery.cs
+i:{c1fe8b2e-4b1b-4e14-a2ef-0675c3162fea}:c:\proyectosgit\usuarios\application\feautres\usuarios\queries\getallusuarios\getallusuariosquery.cs
+++Solución "Usuarios" ‎(6 de 6 proyectos)
+i:{00000000-0000-0000-0000-000000000000}:Usuarios.sln
+++Identity
+i:{0bb375b4-1fdf-4331-94c3-5ee7bc11b29e}:Identity
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.2)
+i:{73b10004-6046-4b25-887e-ffbd9eebb367}:>180876
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.2)
+i:{73b10004-6046-4b25-887e-ffbd9eebb367}:>180892
+++Microsoft.EntityFrameworkCore.Design (6.0.2)
+i:{73b10004-6046-4b25-887e-ffbd9eebb367}:>180896
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.2)
+i:{73b10004-6046-4b25-887e-ffbd9eebb367}:>180898
+++MessagePackAnalyzer
+i:{73b10004-6046-4b25-887e-ffbd9eebb367}:c:\users\usuario\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{73b10004-6046-4b25-887e-ffbd9eebb367}:c:\users\usuario\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{73b10004-6046-4b25-887e-ffbd9eebb367}:c:\users\usuario\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++System.IdentityModel.Tokens.Jwt (6.16.0)
+i:{73b10004-6046-4b25-887e-ffbd9eebb367}:>180902

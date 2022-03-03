@@ -4,6 +4,7 @@ using Application.Feautres.Usuarios.Commands.UpdateUsuarioCommand;
 using Application.Feautres.Usuarios.Queries.GetAllUsuarios;
 using Application.Feautres.Usuarios.Queries.GetUsuarioById;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace WebAPI.Controllers.Usuario
@@ -34,6 +35,7 @@ namespace WebAPI.Controllers.Usuario
 
         //PUT
         [HttpPut("{id}")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Put(int id, UpdateUsuarioCommand command)
         {
             if (id != command.Id)
@@ -43,6 +45,7 @@ namespace WebAPI.Controllers.Usuario
 
         //DELETE
         [HttpDelete("{id}")]
+        [Authorize]
         public async Task<IActionResult> Delete(int id)
         {
             return Ok(await Mediator.Send(new DeleteUsuarioCommand { Id = id}));
